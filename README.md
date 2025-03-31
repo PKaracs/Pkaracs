@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PKaracs/PKaracs/main/assets/banner.png" alt="Peter Karacs Banner" width="70%">
+<img src="https://raw.githubusercontent.com/PKaracs/PKaracs/main/banner.png" alt="Peter Karacs Banner" width="70%">
 
 # Peter Karacs
 
