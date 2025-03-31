@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PKaracs/PKaracs/main/banner.png" alt="Peter Karacs Banner" width="70%">
+<img src="https://raw.githubusercontent.com/PKaracs/PKaracs/main/banner.png" alt="Peter Karacs Banner" width="50%">
 
 # Peter Karacs
 
@@ -27,7 +27,7 @@ Machine Learning · Git · CI/CD
 ### Focus
 
 - Building scalable fullstack systems  
-- Clean architecture, no bullshit  
+- Clean architecture
 - Automating pain points, optimizing edge cases
 
 ---
