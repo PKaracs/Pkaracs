@@ -42,8 +42,7 @@ Machine Learning · Git · CI/CD
 
 ### Elsewhere
 
-[<img src="https://img.icons8.com/ios-filled/20/ffffff/twitter.png"/>](https://twitter.com/yourhandle)  
-[<img src="https://img.icons8.com/ios-filled/20/ffffff/linkedin.png"/>](https://linkedin.com/in/yourhandle)  
+[<img src="https://img.icons8.com/ios-filled/20/ffffff/linkedin.png"/>](https://www.linkedin.com/in/peter-karacs-b95156254/)  
 [<img src="https://img.icons8.com/ios-filled/20/ffffff/globe.png"/>](https://yourwebsite.com)
 
 ---
